@@ -1,0 +1,278 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Merriweather:wght@300;400;700;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply font-sans text-sand-800 dark:text-sand-200 bg-white dark:bg-sand-900 transition-colors duration-300;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif font-bold text-sand-900 dark:text-sand-100;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply inline-flex items-center justify-center px-6 py-3 text-sm font-medium rounded-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+
+  .btn-primary {
+    @apply btn bg-primary-600 text-white hover:bg-primary-700 focus:ring-primary-500 shadow-soft hover:shadow-medium;
+  }
+
+  .btn-secondary {
+    @apply btn bg-sand-100 text-sand-900 hover:bg-sand-200 focus:ring-sand-500 dark:bg-sand-800 dark:text-sand-100 dark:hover:bg-sand-700;
+  }
+
+  .btn-outline {
+    @apply btn border-2 border-primary-600 text-primary-600 hover:bg-primary-600 hover:text-white focus:ring-primary-500;
+  }
+
+  .btn-ghost {
+    @apply btn text-sand-600 hover:text-sand-900 hover:bg-sand-100 focus:ring-sand-500 dark:text-sand-400 dark:hover:text-sand-100 dark:hover:bg-sand-800;
+  }
+
+  .card {
+    @apply bg-white dark:bg-sand-800 rounded-xl shadow-soft hover:shadow-medium transition-all duration-300 border border-sand-200 dark:border-sand-700;
+  }
+
+  .input {
+    @apply w-full px-4 py-3 text-sm border border-sand-300 dark:border-sand-600 rounded-lg bg-white dark:bg-sand-800 text-sand-900 dark:text-sand-100 placeholder-sand-500 dark:placeholder-sand-400 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-colors duration-200;
+  }
+
+  .textarea {
+    @apply input resize-none;
+  }
+
+  .label {
+    @apply block text-sm font-medium text-sand-700 dark:text-sand-300 mb-2;
+  }
+
+  .section-padding {
+    @apply px-4 sm:px-6 lg:px-8;
+  }
+
+  .container-custom {
+    @apply max-w-7xl mx-auto;
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-r from-primary-600 to-gold-600 bg-clip-text text-transparent;
+  }
+
+  .gradient-bg {
+    @apply bg-gradient-to-br from-primary-50 to-gold-50 dark:from-sand-900 dark:to-sand-800;
+  }
+
+  .glass {
+    @apply bg-white/80 dark:bg-sand-900/80 backdrop-blur-sm border border-white/20 dark:border-sand-700/20;
+  }
+
+  .hover-lift {
+    @apply transition-transform duration-300 hover:-translate-y-1;
+  }
+
+  .text-shadow {
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .star-rating {
+    @apply flex items-center space-x-1;
+  }
+
+  .star {
+    @apply w-4 h-4 text-gold-400 fill-current;
+  }
+
+  .star-empty {
+    @apply w-4 h-4 text-sand-300 dark:text-sand-600;
+  }
+
+  /* Custom scrollbar */
+  .custom-scrollbar::-webkit-scrollbar {
+    @apply w-2;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-track {
+    @apply bg-sand-100 dark:bg-sand-800;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    @apply bg-sand-400 dark:bg-sand-600 rounded-full;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    @apply bg-sand-500 dark:bg-sand-500;
+  }
+
+  /* Loading spinner */
+  .spinner {
+    @apply animate-spin rounded-full h-6 w-6 border-b-2 border-primary-600;
+  }
+
+  /* Focus visible for accessibility */
+  .focus-visible {
+    @apply focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2;
+  }
+
+  /* Smooth transitions */
+  .transition-smooth {
+    @apply transition-all duration-300 ease-in-out;
+  }
+
+  /* Hero overlay */
+  .hero-overlay {
+    @apply absolute inset-0 bg-gradient-to-r from-sand-900/70 via-sand-900/50 to-transparent;
+  }
+
+  /* Navbar backdrop */
+  .navbar-backdrop {
+    @apply bg-white/95 dark:bg-sand-900/95 backdrop-blur-md border-b border-sand-200 dark:border-sand-700;
+  }
+
+  /* Tour card hover effects */
+  .tour-card {
+    @apply card hover-lift cursor-pointer overflow-hidden;
+  }
+
+  .tour-card:hover .tour-image {
+    @apply scale-105;
+  }
+
+  .tour-image {
+    @apply transition-transform duration-500;
+  }
+
+  /* Form validation styles */
+  .form-error {
+    @apply text-red-600 dark:text-red-400 text-sm mt-1;
+  }
+
+  .form-success {
+    @apply text-green-600 dark:text-green-400 text-sm mt-1;
+  }
+
+  /* Animation classes */
+  .animate-fade-in {
+    animation: fadeIn 0.6s ease-in-out;
+  }
+
+  .animate-slide-up {
+    animation: slideUp 0.6s ease-out;
+  }
+
+  .animate-slide-down {
+    animation: slideDown 0.3s ease-out;
+  }
+
+  /* Responsive text sizes */
+  .text-responsive-xl {
+    @apply text-2xl sm:text-3xl lg:text-4xl xl:text-5xl;
+  }
+
+  .text-responsive-lg {
+    @apply text-lg sm:text-xl lg:text-2xl;
+  }
+
+  .text-responsive-md {
+    @apply text-base sm:text-lg;
+  }
+
+  /* Image lazy loading placeholder */
+  .image-placeholder {
+    @apply bg-sand-200 dark:bg-sand-700 animate-pulse;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* Custom animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-scroll {
+  animation: scroll 30s linear infinite;
+}
+
+.animate-scroll:hover {
+  animation-play-state: paused;
+}
+
+/* Print styles */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  
+  body {
+    @apply text-black bg-white;
+  }
+}
+

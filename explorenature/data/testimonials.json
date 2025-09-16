@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Rahima Khatun",
+    "location": "Dhaka, Bangladesh",
+    "rating": 5,
+    "review": "I was mesmerized by the beauty of Cox's Bazar beach! The experience of watching the sunset on the world's longest natural sandy beach was extraordinary. Our guide was very helpful and knowledgeable.",
+    "image": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
+    "tour": "Cox's Bazar Beach Paradise",
+    "date": "2025-01-15"
+  },
+  {
+    "id": 2,
+    "name": "Karim Uddin",
+    "location": "Sylhet, Bangladesh",
+    "rating": 5,
+    "review": "I was amazed by the coral reefs of Saint Martin Island! Swimming in the crystal clear water was the best moment of my life. The natural beauty of the island is incomparable.",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+    "tour": "Saint Martin Island Escape",
+    "date": "2025-01-12"
+  },
+  {
+    "id": 3,
+    "name": "Fatema Begum",
+    "location": "Chittagong, Bangladesh",
+    "rating": 5,
+    "review": "The experience of visiting the hill tribe villages in Bandarban was extraordinary! I learned so much about the Mro community's culture. The sunrise view from the mountain peak will stay with me forever.",
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
+    "tour": "Bandarban Hill Tribe Tour",
+    "date": "2025-01-10"
+  },
+  {
+    "id": 4,
+    "name": "Abul Hasan",
+    "location": "Rajshahi, Bangladesh",
+    "rating": 4,
+    "review": "The experience of seeing the cloud kingdom in Sajek Valley was unforgettable! Standing on the mountain peak and watching the sea of clouds was indescribable. The feeling of being in nature's embrace was extraordinary.",
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+    "tour": "Sajek Valley Cloud Paradise",
+    "date": "2025-01-08"
+  },
+  {
+    "id": 5,
+    "name": "Nasir Uddin",
+    "location": "Khulna, Bangladesh",
+    "rating": 5,
+    "review": "The Sundarban mangrove forest safari experience was the best of my life! I was lucky enough to see the Royal Bengal Tiger. I was mesmerized by the incredible natural beauty and wildlife diversity.",
+    "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&crop=face",
+    "tour": "Sundarban Mangrove Forest Safari",
+    "date": "2025-01-05"
+  },
+  {
+    "id": 6,
+    "name": "Roksana Khan",
+    "location": "Barisal, Bangladesh",
+    "rating": 5,
+    "review": "The experience of seeing Sylhet's white stones was extraordinary! I was amazed by the unique rock formations created by nature. The sunset view from the mountain peak will stay with me forever.",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=face",
+    "tour": "Sylhet Sada Pathor Adventure",
+    "date": "2025-01-03"
+  },
+  {
+    "id": 7,
+    "name": "Md. Alamgir",
+    "location": "Comilla, Bangladesh",
+    "rating": 4,
+    "review": "The boat trip experience in Rangamati's Kaptai Lake was extraordinary! The view of the blue water lake surrounded by mountains was incomparable. I learned so much about the tribal village culture.",
+    "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=150&h=150&fit=crop&crop=face",
+    "tour": "Rangamati Lake Paradise",
+    "date": "2025-01-28"
+  },
+  {
+    "id": 8,
+    "name": "Salma Khatun",
+    "location": "Patuakhali, Bangladesh",
+    "rating": 5,
+    "review": "The experience of watching sunrise and sunset in Kuakata was the best of my life! The view of the red sun in the sea will stay with me forever. I was mesmerized by the incredible natural beauty.",
+    "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150&h=150&fit=crop&crop=face",
+    "tour": "Kuakata Sunrise Paradise",
+    "date": "2025-01-25"
+  }
+]
+

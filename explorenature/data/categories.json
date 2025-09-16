@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Beach",
+    "slug": "beach",
+    "description": "Relax on pristine beaches and enjoy coastal activities in beautiful seaside destinations.",
+    "icon": "🏖️",
+    "color": "primary",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "Hills",
+    "slug": "hills",
+    "description": "Explore scenic hill stations and enjoy breathtaking mountain views and cool climates.",
+    "icon": "⛰️",
+    "color": "gold",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "name": "Island",
+    "slug": "island",
+    "description": "Discover tropical islands with crystal clear waters and unique marine ecosystems.",
+    "icon": "🏝️",
+    "color": "sand",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "name": "Wildlife",
+    "slug": "wildlife",
+    "description": "Experience diverse wildlife and natural ecosystems in protected areas and national parks.",
+    "icon": "🦁",
+    "color": "primary",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "name": "Culture",
+    "slug": "culture",
+    "description": "Immerse yourself in rich cultural heritage, traditions, and authentic local experiences.",
+    "icon": "🏛️",
+    "color": "gold",
+    "featured": true
+  },
+  {
+    "id": 6,
+    "name": "Nature",
+    "slug": "nature",
+    "description": "Connect with natural beauty through scenic landscapes, wetlands, and outdoor activities.",
+    "icon": "🌿",
+    "color": "sand",
+    "featured": true
+  },
+  {
+    "id": 7,
+    "name": "International",
+    "slug": "international",
+    "description": "Explore amazing destinations across Asia and experience diverse cultures and landscapes.",
+    "icon": "🌏",
+    "color": "primary",
+    "featured": true
+  },
+  {
+    "id": 8,
+    "name": "Adventure",
+    "slug": "adventure",
+    "description": "Challenge yourself with exciting outdoor activities and adrenaline-pumping adventures.",
+    "icon": "🎯",
+    "color": "gold",
+    "featured": false
+  },
+  {
+    "id": 9,
+    "name": "Photography",
+    "slug": "photography",
+    "description": "Capture stunning moments in picturesque locations with professional guidance.",
+    "icon": "📸",
+    "color": "sand",
+    "featured": false
+  }
+]

@@ -1,0 +1,993 @@
+[
+  {
+    "id": 1,
+    "slug": "cox-bazar-beach-paradise",
+    "title": "Cox's Bazar Beach Paradise",
+    "shortDescription": "Experience the world's longest natural sea beach with pristine sands and crystal clear waters",
+    "longDescription": "Discover the beauty of Cox's Bazar, home to the world's longest natural sea beach stretching over 120 km. Enjoy beach activities, fresh seafood, and breathtaking sunsets over the Bay of Bengal. This coastal paradise offers perfect relaxation and adventure for all ages.",
+    "price": 15000,
+    "duration": "3 days 2 nights",
+    "location": "Cox's Bazar, Bangladesh",
+    "category": "beach",
+    "difficulty": "easy",
+    "groupSize": "2-20 people",
+    "includes": [
+      "Hotel accommodation (2 nights)",
+      "All meals (breakfast, lunch, dinner)",
+      "Beach activities and equipment",
+      "Professional guide",
+      "Transportation from Dhaka",
+      "Beach photography session"
+    ],
+    "highlights": [
+      "World's longest natural sea beach",
+      "Fresh seafood dining experience",
+      "Spectacular sunrise and sunset views",
+      "Beach sports and activities",
+      "Local cultural experiences"
+    ],
+    "itinerary": [
+      {
+        "time": "Day 1 - 6:00 AM",
+        "activity": "Departure from Dhaka to Cox's Bazar",
+        "duration": "8 hours"
+      },
+      {
+        "time": "Day 1 - 2:00 PM",
+        "activity": "Hotel check-in and beach exploration",
+        "duration": "4 hours"
+      },
+      {
+        "time": "Day 1 - 6:00 PM",
+        "activity": "Sunset beach photography and dinner",
+        "duration": "3 hours"
+      },
+      {
+        "time": "Day 2 - 6:00 AM",
+        "activity": "Sunrise beach walk and breakfast",
+        "duration": "2 hours"
+      },
+      {
+        "time": "Day 2 - 9:00 AM",
+        "activity": "Beach activities and water sports",
+        "duration": "4 hours"
+      },
+      {
+        "time": "Day 2 - 2:00 PM",
+        "activity": "Local market visit and seafood lunch",
+        "duration": "3 hours"
+      },
+      {
+        "time": "Day 3 - 8:00 AM",
+        "activity": "Final beach time and departure",
+        "duration": "4 hours"
+      }
+    ],
+    "images": [
+      "/Image/Cox's Bazar/cox1.jpg",
+      "/Image/Cox's Bazar/cox2.jpeg",
+      "/Image/Cox's Bazar/cox3.jpeg",
+      "/Image/Cox's Bazar/cox4.jpeg",
+      "/Image/Cox's Bazar/cox5.jpg"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 1247,
+    "featured": true
+  },
+  {
+    "id": 2,
+    "slug": "saint-martin-island-escape",
+    "title": "Saint Martin Island Escape",
+    "shortDescription": "Discover the only coral island of Bangladesh with pristine beaches and marine life",
+    "longDescription": "Escape to Saint Martin Island, Bangladesh's only coral island. Experience crystal clear waters, vibrant coral reefs, and untouched natural beauty. Perfect for snorkeling, diving, and beach relaxation in this tropical paradise.",
+    "price": 18000,
+    "duration": "2 days 1 night",
+    "location": "Saint Martin Island, Bangladesh",
+    "category": "island",
+    "difficulty": "moderate",
+    "groupSize": "2-15 people",
+    "includes": [
+      "Boat transfer to island",
+      "Resort accommodation",
+      "All meals",
+      "Snorkeling equipment",
+      "Coral reef tour",
+      "Professional guide"
+    ],
+    "highlights": [
+      "Coral reef exploration",
+      "Snorkeling and diving",
+      "Fresh coconut and seafood",
+      "Pristine beach relaxation",
+      "Marine life spotting"
+    ],
+    "itinerary": [
+      {
+        "time": "Day 1 - 6:00 AM",
+        "activity": "Departure from Cox's Bazar to Teknaf",
+        "duration": "2 hours"
+      },
+      {
+        "time": "Day 1 - 8:00 AM",
+        "activity": "Boat journey to Saint Martin Island",
+        "duration": "2 hours"
+      },
+      {
+        "time": "Day 1 - 10:00 AM",
+        "activity": "Island exploration and resort check-in",
+        "duration": "2 hours"
+      },
+      {
+        "time": "Day 1 - 2:00 PM",
+        "activity": "Snorkeling and coral reef tour",
+        "duration": "3 hours"
+      },
+      {
+        "time": "Day 2 - 6:00 AM",
+        "activity": "Sunrise beach walk and breakfast",
+        "duration": "2 hours"
+      },
+      {
+        "time": "Day 2 - 9:00 AM",
+        "activity": "Island hopping and return journey",
+        "duration": "4 hours"
+      }
+    ],
+    "images": [
+      "/Image/Saint Martin/sm1.png",
+      "/Image/Saint Martin/sm2.jpg",
+      "/Image/Saint Martin/sm3.jpg",
+      "/Image/Saint Martin/sm4.png",
+      "/Image/Saint Martin/sm5.jpg"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 892,
+    "featured": true
+  },
+  {
+    "id": 3,
+    "slug": "rangamati-hill-station",
+    "title": "Rangamati Hill Station Adventure",
+    "shortDescription": "Explore the beautiful hill station with lakes, tribal culture, and scenic landscapes",
+    "longDescription": "Discover Rangamati, the queen of hills in Bangladesh. Experience the beauty of Kaptai Lake, tribal villages, and lush green hills. This cultural and natural adventure offers unique insights into indigenous communities and breathtaking landscapes.",
+    "price": 12000,
+    "duration": "2 days 1 night",
+    "location": "Rangamati, Bangladesh",
+    "category": "hills",
+    "difficulty": "easy",
+    "groupSize": "2-18 people",
+    "includes": [
+      "Hotel accommodation",
+      "All meals",
+      "Boat ride on Kaptai Lake",
+      "Tribal village visit",
+      "Professional guide",
+      "Transportation"
+    ],
+    "highlights": [
+      "Kaptai Lake boat cruise",
+      "Tribal culture experience",
+      "Hill station views",
+      "Indigenous handicrafts",
+      "Scenic photography spots"
+    ],
+    "itinerary": [
+      {
+        "time": "Day 1 - 7:00 AM",
+        "activity": "Departure from Dhaka to Rangamati",
+        "duration": "6 hours"
+      },
+      {
+        "time": "Day 1 - 1:00 PM",
+        "activity": "Hotel check-in and lunch",
+        "duration": "2 hours"
+      },
+      {
+        "time": "Day 1 - 3:00 PM",
+        "activity": "Kaptai Lake boat cruise",
+        "duration": "3 hours"
+      },
+      {
+        "time": "Day 1 - 6:00 PM",
+        "activity": "Tribal village visit and dinner",
+        "duration": "3 hours"
+      },
+      {
+        "time": "Day 2 - 8:00 AM",
+        "activity": "Hill station exploration and breakfast",
+        "duration": "3 hours"
+      },
+      {
+        "time": "Day 2 - 11:00 AM",
+        "activity": "Local market and return journey",
+        "duration": "6 hours"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 634,
+    "featured": false
+  },
+  {
+    "id": 4,
+    "slug": "bandarban-hill-tribe-tour",
+    "title": "Bandarban Hill Tribe Tour",
+    "shortDescription": "Experience the highest peaks of Bangladesh and authentic tribal culture",
+    "longDescription": "Journey to Bandarban, home to Bangladesh's highest peaks and diverse tribal communities. Trek through lush forests, visit traditional villages, and experience the rich cultural heritage of indigenous tribes while enjoying spectacular mountain views.",
+    "price": 16000,
+    "duration": "3 days 2 nights",
+    "location": "Bandarban, Bangladesh",
+    "category": "hills",
+    "difficulty": "moderate",
+    "groupSize": "2-12 people",
+    "includes": [
+      "Mountain resort accommodation",
+      "All meals",
+      "Trekking equipment",
+      "Tribal village visits",
+      "Professional mountain guide",
+      "Transportation"
+    ],
+    "highlights": [
+      "Trek to highest peaks",
+      "Tribal village experiences",
+      "Mountain sunrise views",
+      "Indigenous culture immersion",
+      "Forest trekking adventure"
+    ],
+    "itinerary": [
+      {
+        "time": "Day 1 - 6:00 AM",
+        "activity": "Departure from Dhaka to Bandarban",
+        "duration": "8 hours"
+      },
+      {
+        "time": "Day 1 - 2:00 PM",
+        "activity": "Resort check-in and local exploration",
+        "duration": "4 hours"
+      },
+      {
+        "time": "Day 2 - 5:00 AM",
+        "activity": "Trek to highest peak for sunrise",
+        "duration": "4 hours"
+      },
+      {
+        "time": "Day 2 - 10:00 AM",
+        "activity": "Tribal village visits and cultural experience",
+        "duration": "6 hours"
+      },
+      {
+        "time": "Day 3 - 8:00 AM",
+        "activity": "Forest trekking and return journey",
+        "duration": "8 hours"
+      }
+    ],
+    "images": [
+      "/Image/Bandarban/bandor1.jpg",
+      "/Image/Bandarban/bandor2.jpg",
+      "/Image/Bandarban/bandor3.jpg",
+      "/Image/Bandarban/bandor4.jpg",
+      "/Image/Bandarban/bandor5.jpg"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 456,
+    "featured": true
+  },
+  {
+    "id": 5,
+    "slug": "sajek-valley-cloud-paradise",
+    "title": "Sajek Valley Cloud Paradise",
+    "shortDescription": "Experience the cloud-kissed hills and panoramic views of Sajek Valley",
+    "longDescription": "Discover Sajek Valley, known as the 'Queen of Hills' and 'Roof of Rangamati'. Experience the magical cloud-covered landscapes, indigenous culture, and breathtaking panoramic views that make this destination truly special.",
+    "price": 14000,
+    "duration": "2 days 1 night",
+    "location": "Sajek Valley, Bangladesh",
+    "category": "hills",
+    "difficulty": "moderate",
+    "groupSize": "2-15 people",
+    "includes": [
+      "Resort accommodation",
+      "All meals",
+      "Cloud point visits",
+      "Tribal culture experience",
+      "Professional guide",
+      "Transportation"
+    ],
+    "highlights": [
+      "Cloud-covered hill views",
+      "Indigenous tribal culture",
+      "Panoramic valley views",
+      "Sunrise and sunset photography",
+      "Mountain trekking"
+    ],
+    "itinerary": [
+      {
+        "time": "Day 1 - 6:00 AM",
+        "activity": "Departure from Dhaka to Sajek",
+        "duration": "8 hours"
+      },
+      {
+        "time": "Day 1 - 2:00 PM",
+        "activity": "Resort check-in and cloud point visit",
+        "duration": "4 hours"
+      },
+      {
+        "time": "Day 1 - 6:00 PM",
+        "activity": "Sunset viewing and tribal dinner",
+        "duration": "3 hours"
+      },
+      {
+        "time": "Day 2 - 5:00 AM",
+        "activity": "Sunrise cloud viewing and breakfast",
+        "duration": "3 hours"
+      },
+      {
+        "time": "Day 2 - 9:00 AM",
+        "activity": "Valley exploration and return journey",
+        "duration": "8 hours"
+      }
+    ],
+    "images": [
+      "/Image/Sajek/sajek1.jpg",
+      "/Image/Sajek/sajek2.jpg",
+      "/Image/Sajek/sajek3.png",
+      "/Image/Sajek/sajek4.jpeg",
+      "/Image/Sajek/sajek5.jpg"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 298,
+    "featured": false
+  },
+  {
+    "id": 6,
+    "slug": "kuakata-sunrise-sunset",
+    "title": "Kuakata Sunrise & Sunset",
+    "shortDescription": "Witness both sunrise and sunset from the same beach in Kuakata",
+    "longDescription": "Experience the unique phenomenon of watching both sunrise and sunset from the same beach at Kuakata. This coastal destination offers pristine beaches, Buddhist temples, and the rare opportunity to see both celestial events from one location.",
+    "price": 11000,
+    "duration": "2 days 1 night",
+    "location": "Kuakata, Bangladesh",
+    "category": "beach",
+    "difficulty": "easy",
+    "groupSize": "2-20 people",
+    "includes": [
+      "Hotel accommodation",
+      "All meals",
+      "Beach activities",
+      "Temple visits",
+      "Professional guide",
+      "Transportation"
+    ],
+    "highlights": [
+      "Sunrise and sunset viewing",
+      "Buddhist temple visits",
+      "Beach relaxation",
+      "Fresh seafood dining",
+      "Coastal photography"
+    ],
+    "itinerary": [
+      {
+        "time": "Day 1 - 6:00 AM",
+        "activity": "Departure from Dhaka to Kuakata",
+        "duration": "8 hours"
+      },
+      {
+        "time": "Day 1 - 2:00 PM",
+        "activity": "Hotel check-in and beach exploration",
+        "duration": "4 hours"
+      },
+      {
+        "time": "Day 1 - 6:00 PM",
+        "activity": "Sunset viewing and dinner",
+        "duration": "3 hours"
+      },
+      {
+        "time": "Day 2 - 5:00 AM",
+        "activity": "Sunrise viewing and breakfast",
+        "duration": "3 hours"
+      },
+      {
+        "time": "Day 2 - 9:00 AM",
+        "activity": "Temple visits and return journey",
+        "duration": "8 hours"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 567,
+    "featured": false
+  },
+  {
+    "id": 7,
+    "slug": "sundarban-mangrove-forest",
+    "title": "Sundarban Mangrove Forest Safari",
+    "shortDescription": "Explore the world's largest mangrove forest and spot the Royal Bengal Tiger",
+    "longDescription": "Venture into the Sundarban, the world's largest mangrove forest and UNESCO World Heritage Site. Experience the unique ecosystem, spot wildlife including the Royal Bengal Tiger, and cruise through mysterious waterways in this natural wonder.",
+    "price": 20000,
+    "duration": "3 days 2 nights",
+    "location": "Sundarban, Bangladesh",
+    "category": "wildlife",
+    "difficulty": "moderate",
+    "groupSize": "2-12 people",
+    "includes": [
+      "Boat accommodation",
+      "All meals",
+      "Wildlife spotting equipment",
+      "Professional naturalist guide",
+      "Forest entry permits",
+      "Transportation"
+    ],
+    "highlights": [
+      "Royal Bengal Tiger spotting",
+      "Mangrove forest exploration",
+      "Wildlife photography",
+      "Boat safari experience",
+      "UNESCO World Heritage Site"
+    ],
+    "itinerary": [
+      {
+        "time": "Day 1 - 6:00 AM",
+        "activity": "Departure from Dhaka to Mongla",
+        "duration": "6 hours"
+      },
+      {
+        "time": "Day 1 - 12:00 PM",
+        "activity": "Boat journey into Sundarban",
+        "duration": "4 hours"
+      },
+      {
+        "time": "Day 1 - 4:00 PM",
+        "activity": "Wildlife spotting and camp setup",
+        "duration": "4 hours"
+      },
+      {
+        "time": "Day 2 - 6:00 AM",
+        "activity": "Early morning wildlife safari",
+        "duration": "4 hours"
+      },
+      {
+        "time": "Day 2 - 2:00 PM",
+        "activity": "Mangrove forest trekking",
+        "duration": "4 hours"
+      },
+      {
+        "time": "Day 3 - 8:00 AM",
+        "activity": "Final safari and return journey",
+        "duration": "8 hours"
+      }
+    ],
+    "images": [
+      "/Image/Sundarban/snb1.jpg",
+      "/Image/Sundarban/snb2.jpg",
+      "/Image/Sundarban/snb3.png",
+      "/Image/Sundarban/snb4.png"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 423,
+    "featured": true
+  },
+  {
+    "id": 8,
+    "slug": "sylhet-sada-pathor",
+    "title": "Sylhet Sada Pathor Adventure",
+    "shortDescription": "Discover the white stone formations and tea gardens of Sylhet",
+    "longDescription": "Explore Sylhet's famous Sada Pathor (White Stone) area, surrounded by lush tea gardens and rolling hills. Experience the beauty of Bangladesh's tea capital, visit tea estates, and enjoy the cool climate and scenic landscapes.",
+    "price": 13000,
+    "duration": "2 days 1 night",
+    "location": "Sylhet, Bangladesh",
+    "category": "hills",
+    "difficulty": "easy",
+    "groupSize": "2-20 people",
+    "includes": [
+      "Resort accommodation",
+      "All meals",
+      "Tea garden visits",
+      "Stone formation tour",
+      "Professional guide",
+      "Transportation"
+    ],
+    "highlights": [
+      "White stone formations",
+      "Tea garden exploration",
+      "Hill station views",
+      "Tea tasting experience",
+      "Scenic photography"
+    ],
+    "itinerary": [
+      {
+        "time": "Day 1 - 7:00 AM",
+        "activity": "Departure from Dhaka to Sylhet",
+        "duration": "6 hours"
+      },
+      {
+        "time": "Day 1 - 1:00 PM",
+        "activity": "Resort check-in and lunch",
+        "duration": "2 hours"
+      },
+      {
+        "time": "Day 1 - 3:00 PM",
+        "activity": "Sada Pathor exploration",
+        "duration": "4 hours"
+      },
+      {
+        "time": "Day 2 - 8:00 AM",
+        "activity": "Tea garden visits and breakfast",
+        "duration": "4 hours"
+      },
+      {
+        "time": "Day 2 - 12:00 PM",
+        "activity": "Return journey to Dhaka",
+        "duration": "6 hours"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 345,
+    "featured": false
+  },
+  {
+    "id": 9,
+    "slug": "sylhet-jaflong-stone-collecting",
+    "title": "Sylhet Jaflong Stone Collecting",
+    "shortDescription": "Experience the unique stone collecting tradition at Jaflong",
+    "longDescription": "Visit Jaflong, famous for its stone collecting tradition and scenic beauty. Experience the unique culture of stone collectors, enjoy the crystal clear waters, and explore the beautiful landscapes of this border area.",
+    "price": 12000,
+    "duration": "2 days 1 night",
+    "location": "Jaflong, Sylhet, Bangladesh",
+    "category": "culture",
+    "difficulty": "easy",
+    "groupSize": "2-18 people",
+    "includes": [
+      "Hotel accommodation",
+      "All meals",
+      "Stone collecting experience",
+      "Cultural village visit",
+      "Professional guide",
+      "Transportation"
+    ],
+    "highlights": [
+      "Stone collecting tradition",
+      "Crystal clear waters",
+      "Cultural village experience",
+      "Border area exploration",
+      "Traditional crafts"
+    ],
+    "itinerary": [
+      {
+        "time": "Day 1 - 7:00 AM",
+        "activity": "Departure from Dhaka to Sylhet",
+        "duration": "6 hours"
+      },
+      {
+        "time": "Day 1 - 1:00 PM",
+        "activity": "Hotel check-in and lunch",
+        "duration": "2 hours"
+      },
+      {
+        "time": "Day 1 - 3:00 PM",
+        "activity": "Jaflong stone collecting experience",
+        "duration": "4 hours"
+      },
+      {
+        "time": "Day 2 - 8:00 AM",
+        "activity": "Cultural village visit and breakfast",
+        "duration": "4 hours"
+      },
+      {
+        "time": "Day 2 - 12:00 PM",
+        "activity": "Return journey to Dhaka",
+        "duration": "6 hours"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800"
+    ],
+    "rating": 4.4,
+    "reviewsCount": 278,
+    "featured": false
+  },
+  {
+    "id": 10,
+    "slug": "sunamganj-haor-wetland",
+    "title": "Sunamganj Haor Wetland Tour",
+    "shortDescription": "Explore the beautiful haor wetlands and seasonal water bodies",
+    "longDescription": "Discover the unique haor ecosystem of Sunamganj, where seasonal water bodies create a magical landscape. Experience boat rides through wetlands, bird watching, and the traditional lifestyle of haor communities.",
+    "price": 10000,
+    "duration": "2 days 1 night",
+    "location": "Sunamganj, Bangladesh",
+    "category": "nature",
+    "difficulty": "easy",
+    "groupSize": "2-15 people",
+    "includes": [
+      "Local accommodation",
+      "All meals",
+      "Boat rides",
+      "Bird watching equipment",
+      "Professional guide",
+      "Transportation"
+    ],
+    "highlights": [
+      "Haor wetland exploration",
+      "Bird watching",
+      "Boat rides through wetlands",
+      "Traditional community visits",
+      "Seasonal landscape beauty"
+    ],
+    "itinerary": [
+      {
+        "time": "Day 1 - 7:00 AM",
+        "activity": "Departure from Dhaka to Sunamganj",
+        "duration": "6 hours"
+      },
+      {
+        "time": "Day 1 - 1:00 PM",
+        "activity": "Local accommodation and lunch",
+        "duration": "2 hours"
+      },
+      {
+        "time": "Day 1 - 3:00 PM",
+        "activity": "Haor boat ride and exploration",
+        "duration": "4 hours"
+      },
+      {
+        "time": "Day 2 - 6:00 AM",
+        "activity": "Bird watching and breakfast",
+        "duration": "3 hours"
+      },
+      {
+        "time": "Day 2 - 10:00 AM",
+        "activity": "Community visits and return journey",
+        "duration": "6 hours"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800"
+    ],
+    "rating": 4.3,
+    "reviewsCount": 189,
+    "featured": false
+  },
+  {
+    "id": 11,
+    "slug": "india-golden-triangle",
+    "title": "India Golden Triangle Tour",
+    "shortDescription": "Explore Delhi, Agra, and Jaipur in this classic Indian adventure",
+    "longDescription": "Discover India's most iconic destinations through the Golden Triangle route. Visit the magnificent Taj Mahal, explore the bustling streets of Delhi, and experience the royal heritage of Jaipur. This comprehensive tour showcases India's rich history and culture.",
+    "price": 45000,
+    "duration": "7 days 6 nights",
+    "location": "Delhi, Agra, Jaipur, India",
+    "category": "international",
+    "difficulty": "moderate",
+    "groupSize": "2-20 people",
+    "includes": [
+      "Hotel accommodation (6 nights)",
+      "All meals",
+      "Entrance fees to monuments",
+      "Professional guide",
+      "Airport transfers",
+      "Transportation between cities"
+    ],
+    "highlights": [
+      "Taj Mahal visit",
+      "Red Fort exploration",
+      "Amber Fort tour",
+      "Cultural experiences",
+      "Historical monuments"
+    ],
+    "itinerary": [
+      {
+        "time": "Day 1",
+        "activity": "Arrival in Delhi and city tour",
+        "duration": "Full day"
+      },
+      {
+        "time": "Day 2",
+        "activity": "Delhi sightseeing and Red Fort",
+        "duration": "Full day"
+      },
+      {
+        "time": "Day 3",
+        "activity": "Delhi to Agra and Taj Mahal visit",
+        "duration": "Full day"
+      },
+      {
+        "time": "Day 4",
+        "activity": "Agra Fort and Fatehpur Sikri",
+        "duration": "Full day"
+      },
+      {
+        "time": "Day 5",
+        "activity": "Agra to Jaipur and city tour",
+        "duration": "Full day"
+      },
+      {
+        "time": "Day 6",
+        "activity": "Amber Fort and local markets",
+        "duration": "Full day"
+      },
+      {
+        "time": "Day 7",
+        "activity": "Departure from Jaipur",
+        "duration": "Half day"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 567,
+    "featured": true
+  },
+  {
+    "id": 12,
+    "slug": "nepal-kathmandu-valley",
+    "title": "Nepal Kathmandu Valley Tour",
+    "shortDescription": "Explore the cultural heritage and mountain views of Kathmandu Valley",
+    "longDescription": "Discover the rich cultural heritage of Nepal in Kathmandu Valley. Visit ancient temples, experience local traditions, and enjoy breathtaking mountain views. This tour combines cultural exploration with natural beauty.",
+    "price": 35000,
+    "duration": "5 days 4 nights",
+    "location": "Kathmandu, Nepal",
+    "category": "international",
+    "difficulty": "easy",
+    "groupSize": "2-15 people",
+    "includes": [
+      "Hotel accommodation (4 nights)",
+      "All meals",
+      "Entrance fees",
+      "Professional guide",
+      "Airport transfers",
+      "Transportation"
+    ],
+    "highlights": [
+      "Ancient temples",
+      "Mountain views",
+      "Cultural experiences",
+      "Local markets",
+      "UNESCO World Heritage Sites"
+    ],
+    "itinerary": [
+      {
+        "time": "Day 1",
+        "activity": "Arrival in Kathmandu and city tour",
+        "duration": "Full day"
+      },
+      {
+        "time": "Day 2",
+        "activity": "Pashupatinath and Boudhanath",
+        "duration": "Full day"
+      },
+      {
+        "time": "Day 3",
+        "activity": "Bhaktapur and Patan",
+        "duration": "Full day"
+      },
+      {
+        "time": "Day 4",
+        "activity": "Swayambhunath and local markets",
+        "duration": "Full day"
+      },
+      {
+        "time": "Day 5",
+        "activity": "Departure from Kathmandu",
+        "duration": "Half day"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 423,
+    "featured": false
+  },
+  {
+    "id": 13,
+    "slug": "bhutan-happiness-kingdom",
+    "title": "Bhutan Happiness Kingdom Tour",
+    "shortDescription": "Experience the last Shangri-La and Gross National Happiness",
+    "longDescription": "Discover Bhutan, the Land of the Thunder Dragon and the last Shangri-La. Experience the unique concept of Gross National Happiness, visit ancient monasteries, and enjoy the pristine natural beauty of the Himalayas.",
+    "price": 55000,
+    "duration": "6 days 5 nights",
+    "location": "Thimphu, Paro, Bhutan",
+    "category": "international",
+    "difficulty": "moderate",
+    "groupSize": "2-12 people",
+    "includes": [
+      "Hotel accommodation (5 nights)",
+      "All meals",
+      "Entrance fees",
+      "Professional guide",
+      "Airport transfers",
+      "Transportation"
+    ],
+    "highlights": [
+      "Tiger's Nest Monastery",
+      "Gross National Happiness",
+      "Ancient monasteries",
+      "Himalayan views",
+      "Cultural experiences"
+    ],
+    "itinerary": [
+      {
+        "time": "Day 1",
+        "activity": "Arrival in Paro and Thimphu",
+        "duration": "Full day"
+      },
+      {
+        "time": "Day 2",
+        "activity": "Thimphu city tour and monasteries",
+        "duration": "Full day"
+      },
+      {
+        "time": "Day 3",
+        "activity": "Punakha and Wangdue",
+        "duration": "Full day"
+      },
+      {
+        "time": "Day 4",
+        "activity": "Tiger's Nest Monastery trek",
+        "duration": "Full day"
+      },
+      {
+        "time": "Day 5",
+        "activity": "Paro exploration and local culture",
+        "duration": "Full day"
+      },
+      {
+        "time": "Day 6",
+        "activity": "Departure from Paro",
+        "duration": "Half day"
+      }
+    ],
+    "images": [
+      "/Image/Bhutan/Bh1.png",
+      "/Image/Bhutan/bh2.png",
+      "/Image/Bhutan/bh3.png",
+      "/Image/Bhutan/bh4.jpg",
+      "/Image/Bhutan/bh5.jpg"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 234,
+    "featured": true
+  },
+  {
+    "id": 14,
+    "slug": "thailand-bangkok-adventure",
+    "title": "Thailand Bangkok Adventure",
+    "shortDescription": "Explore the vibrant capital city and cultural treasures of Thailand",
+    "longDescription": "Discover Bangkok, the vibrant capital of Thailand. Experience the perfect blend of ancient temples, modern skyscrapers, bustling markets, and delicious street food. This tour showcases the best of Thai culture and urban life.",
+    "price": 40000,
+    "duration": "5 days 4 nights",
+    "location": "Bangkok, Thailand",
+    "category": "international",
+    "difficulty": "easy",
+    "groupSize": "2-20 people",
+    "includes": [
+      "Hotel accommodation (4 nights)",
+      "All meals",
+      "Entrance fees",
+      "Professional guide",
+      "Airport transfers",
+      "Transportation"
+    ],
+    "highlights": [
+      "Grand Palace and Wat Phra Kaew",
+      "Floating markets",
+      "Street food tours",
+      "Temple visits",
+      "Cultural experiences"
+    ],
+    "itinerary": [
+      {
+        "time": "Day 1",
+        "activity": "Arrival in Bangkok and city orientation",
+        "duration": "Full day"
+      },
+      {
+        "time": "Day 2",
+        "activity": "Grand Palace and Wat Phra Kaew",
+        "duration": "Full day"
+      },
+      {
+        "time": "Day 3",
+        "activity": "Floating markets and temple tours",
+        "duration": "Full day"
+      },
+      {
+        "time": "Day 4",
+        "activity": "Street food tour and local markets",
+        "duration": "Full day"
+      },
+      {
+        "time": "Day 5",
+        "activity": "Departure from Bangkok",
+        "duration": "Half day"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 678,
+    "featured": false
+  },
+  {
+    "id": 15,
+    "slug": "malaysia-kuala-lumpur",
+    "title": "Malaysia Kuala Lumpur City Tour",
+    "shortDescription": "Experience the modern metropolis and cultural diversity of Malaysia",
+    "longDescription": "Explore Kuala Lumpur, Malaysia's vibrant capital city. Discover the iconic Petronas Towers, explore diverse neighborhoods, enjoy delicious Malaysian cuisine, and experience the perfect blend of modernity and tradition.",
+    "price": 38000,
+    "duration": "4 days 3 nights",
+    "location": "Kuala Lumpur, Malaysia",
+    "category": "international",
+    "difficulty": "easy",
+    "groupSize": "2-18 people",
+    "includes": [
+      "Hotel accommodation (3 nights)",
+      "All meals",
+      "Entrance fees",
+      "Professional guide",
+      "Airport transfers",
+      "Transportation"
+    ],
+    "highlights": [
+      "Petronas Towers",
+      "Cultural diversity",
+      "Malaysian cuisine",
+      "Modern architecture",
+      "Shopping experiences"
+    ],
+    "itinerary": [
+      {
+        "time": "Day 1",
+        "activity": "Arrival in Kuala Lumpur and city tour",
+        "duration": "Full day"
+      },
+      {
+        "time": "Day 2",
+        "activity": "Petronas Towers and KLCC",
+        "duration": "Full day"
+      },
+      {
+        "time": "Day 3",
+        "activity": "Cultural neighborhoods and food tour",
+        "duration": "Full day"
+      },
+      {
+        "time": "Day 4",
+        "activity": "Departure from Kuala Lumpur",
+        "duration": "Half day"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800",
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800"
+    ],
+    "rating": 4.4,
+    "reviewsCount": 456,
+    "featured": false
+  }
+]
