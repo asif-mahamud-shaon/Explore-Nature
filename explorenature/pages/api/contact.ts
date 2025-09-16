@@ -3,7 +3,7 @@ import { ContactFormData, ApiResponse } from '@/types';
 
 export default async function handler(
   req: NextApiRequest,
-  res: NextApiResponse<ApiResponse>
+  res: NextApiResponse<ApiResponse<any>>
 ) {
   if (req.method !== 'POST') {
     return res.status(405).json({
@@ -34,7 +34,7 @@ export default async function handler(
 
     // Phone validation (optional)
     if (phone) {
-      const phoneRegex = /^[\+]?[1-9][\d]{0,15}$/;
+      const phoneRegex = /^[+]?[1-9][\d]{0,15}$/;
       if (!phoneRegex.test(phone)) {
         return res.status(400).json({
           success: false,

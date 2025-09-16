@@ -2,6 +2,7 @@ import React from 'react';
 import { GetStaticProps } from 'next';
 import { NextSeo } from 'next-seo';
 import Image from 'next/image';
+import Link from 'next/link';
 import Layout from '@/components/Layout';
 import { motion } from 'framer-motion';
 import { 
@@ -11,9 +12,6 @@ import {
   Globe, 
   Shield, 
   Star,
-  MapPin,
-  Clock,
-  Phone,
   Mail
 } from 'lucide-react';
 
@@ -25,7 +23,7 @@ interface AboutPageProps {
   }>;
 }
 
-const AboutPage: React.FC<AboutPageProps> = ({ stats }) => {
+const AboutPage: React.FC<AboutPageProps> = ({ stats: _stats }) => {
   const teamMembers = [
     {
       name: 'Asif Mahamud Shaon',
@@ -184,15 +182,15 @@ const AboutPage: React.FC<AboutPageProps> = ({ stats }) => {
                     the world.
                   </p>
                   <p>
-                    What started as weekend adventures exploring Cox's Bazar and Bandarban 
-                    with friends has grown into one of Bangladesh's most trusted tour 
+                    What started as weekend adventures exploring Cox&apos;s Bazar and Bandarban 
+                    with friends has grown into one of Bangladesh&apos;s most trusted tour 
                     operators, serving thousands of guests from over 50 countries. Our 
                     success comes from our unwavering commitment to safety, authenticity, 
                     and creating truly memorable experiences.
                   </p>
                   <p>
-                    Today, we're proud to offer a diverse range of experiences, from 
-                    beach adventures at Cox's Bazar to hill treks in Bandarban, and 
+                    Today, we&apos;re proud to offer a diverse range of experiences, from 
+                    beach adventures at Cox&apos;s Bazar to hill treks in Bandarban, and 
                     international tours to India, Nepal, Bhutan, Thailand, and Malaysia. 
                     All designed to showcase the unique charm of Bangladesh and our 
                     neighboring countries.
@@ -361,7 +359,7 @@ const AboutPage: React.FC<AboutPageProps> = ({ stats }) => {
                 Awards & Recognition
               </h2>
               <p className="text-xl text-sand-600 dark:text-sand-400 max-w-3xl mx-auto">
-                We're honored to be recognized by industry leaders and our guests for 
+                We&apos;re honored to be recognized by industry leaders and our guests for 
                 excellence in Bangladesh tourism and customer service.
               </p>
             </motion.div>
@@ -436,18 +434,18 @@ const AboutPage: React.FC<AboutPageProps> = ({ stats }) => {
                 the desert with Explorer Nature.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <a
+                <Link
                   href="/tours"
                   className="btn bg-white text-primary-600 hover:bg-sand-100 font-semibold px-8 py-4"
                 >
                   Explore Tours
-                </a>
-                <a
+                </Link>
+                <Link
                   href="/contact"
                   className="btn border-2 border-white text-white hover:bg-white hover:text-primary-600 font-semibold px-8 py-4"
                 >
                   Contact Us
-                </a>
+                </Link>
               </div>
             </motion.div>
           </div>

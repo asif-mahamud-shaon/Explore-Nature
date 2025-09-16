@@ -3,7 +3,7 @@ import { NewsletterFormData, ApiResponse } from '@/types';
 
 export default async function handler(
   req: NextApiRequest,
-  res: NextApiResponse<ApiResponse>
+  res: NextApiResponse<ApiResponse<any>>
 ) {
   if (req.method !== 'POST') {
     return res.status(405).json({
