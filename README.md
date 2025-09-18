@@ -386,12 +386,6 @@ npm run build
 npm run start
 ```
 
-### **Environment Variables**
-```env
-NEXT_PUBLIC_SITE_URL=https://explorernature.com
-NEXT_PUBLIC_API_URL=https://api.explorernature.com
-```
-
 ### **Deployment Platforms**
 - **Vercel** (Recommended)
 - **Netlify**
@@ -421,8 +415,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Explorer Nature**
 - **Founder**: Asif Mahamud Shaon
-- **Email**: info@explorernature.com
-- **Website**: https://explorernature.com
+- **Email**: asifmahamud669@gmail.com 
 - **Location**: Bangladesh
 
 ---
