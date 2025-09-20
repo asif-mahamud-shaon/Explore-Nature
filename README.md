@@ -1,28 +1,3 @@
-# 🌍 Explorer Nature - Bangladesh Tourism Platform
-
-[![Next.js](https://img.shields.io/badge/Next.js-14.0.0-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.2.2-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3.5-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-10.16.4-0055FF?style=for-the-badge&logo=framer)](https://www.framer.com/motion/)
-
-> **A modern, responsive travel website showcasing Bangladesh's natural beauty and international tour packages**
-
-## 📖 Table of Contents
-
-- [🌟 Overview](#-overview)
-- [✨ Features](#-features)
-- [🏗️ Tech Stack](#️-tech-stack)
-- [🚀 Getting Started](#-getting-started)
-- [📁 Project Structure](#-project-structure)
-- [🎨 Components](#-components)
-- [📊 Data Management](#-data-management)
-- [🧪 Testing](#-testing)
-- [📱 Responsive Design](#-responsive-design)
-- [🔧 Configuration](#-configuration)
-- [📈 Performance](#-performance)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-
 ## 🌟 Overview
 
 **Explorer Nature** is a premium tourism platform that showcases Bangladesh's natural wonders and offers international tour packages. Founded in 2025 by Asif Mahamud Shaon, the platform connects travelers with authentic experiences from Cox's Bazar's pristine beaches to Bandarban's mystical hills, plus international destinations including India, Nepal, Bhutan, Thailand, and Malaysia.
@@ -255,30 +230,6 @@ explorenature/
 - Thumbnail navigation
 - Full-screen viewing
 
-## 📊 Data Management
-
-### **Static Data Structure**
-
-#### **Tours Data (tours.json)**
-```json
-{
-  "id": 1,
-  "slug": "cox-bazar-beach-paradise",
-  "title": "Cox's Bazar Beach Paradise",
-  "price": 15000,
-  "duration": "3 days 2 nights",
-  "location": "Cox's Bazar, Bangladesh",
-  "category": "beach",
-  "difficulty": "easy",
-  "groupSize": "2-20 people",
-  "includes": ["Hotel accommodation", "All meals", "Guide"],
-  "highlights": ["World's longest beach", "Sunset views", "Fresh seafood"],
-  "images": ["image1.jpg", "image2.jpg"],
-  "itinerary": [...],
-  "reviews": [...]
-}
-```
-
 #### **Categories (categories.json)**
 - Beach Tours
 - Hill Station Tours
@@ -329,39 +280,6 @@ npm run test:coverage     # Coverage report
 - Keyboard navigation
 - Multi-column layouts
 - Advanced filtering options
-
-## 🔧 Configuration
-
-### **Tailwind CSS Configuration**
-```javascript
-// tailwind.config.js
-module.exports = {
-  content: ['./pages/**/*.{js,ts,jsx,tsx}', './components/**/*.{js,ts,jsx,tsx}'],
-  theme: {
-    extend: {
-      colors: {
-        sand: {
-          50: '#fdfcfb',
-          900: '#1a1a1a'
-        }
-      }
-    }
-  }
-}
-```
-
-### **Next.js Configuration**
-```javascript
-// next.config.js
-module.exports = {
-  images: {
-    domains: ['images.unsplash.com', 'via.placeholder.com']
-  },
-  experimental: {
-    appDir: true
-  }
-}
-```
 
 ## 📈 Performance
 
@@ -422,7 +340,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ in Bangladesh**
+**Made with Asif Mahamud Shaon**
 
 [⭐ Star this repo](https://github.com/your-username/explorer-nature) | [🐛 Report Bug](https://github.com/your-username/explorer-nature/issues) | [💡 Request Feature](https://github.com/your-username/explorer-nature/issues)
 
